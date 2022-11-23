@@ -5,12 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5a77217-d785-4882-bd2a-bbeef6d52472" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CompareAnyCollections.Core/ICompareAnyCollections.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompareAnyCollections.Run/Model/Money.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompareAnyCollections.Run/Model/MoneyComparer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompareAnyCollections.Run/Model/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CompareAnyCollections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CompareAnyCollections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompareAnyCollections.Run/CompareAnyCollections.Run.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CompareAnyCollections.Run/CompareAnyCollections.Run.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompareAnyCollections.Run/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CompareAnyCollections.Run/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9b93a447e15923a4aea115cd8e5dbd71986e119b7e884dcfd949311f8174014/ArrayList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a683b4d0bbcb4c3e98a3c7cffd352553a23690/_fd827/IList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ae834d5fb7eae7b5b55aa022386da5666a22b8bc2b3e9d3a2d5bdb2fe724eb8e/Queue.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -61,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669213840643</updated>
-      <workItem from="1669213848253" duration="973000" />
+      <workItem from="1669213848253" duration="2777000" />
     </task>
     <servers />
   </component>
